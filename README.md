@@ -21,7 +21,7 @@ The year 2016 had the highest number of sales.
 Corporeate body made most of the orders in all of the state.
 Sales manager, Yvette Biti had the highest number of sales and made most of his sales in 2014 followed by Cannor Betts who made most of his sales in 2016.
 
-Recommendation:
+# Recommendation:
 All other state should learn from NSW on how they make their sales.
 Since corporeate are mostly the customers, goods ordered by them should constantly be made available in the states.
 Yvette Biti and Cannor Baetts should educate other sales manager on how to make sales.
