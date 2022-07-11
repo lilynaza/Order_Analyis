@@ -12,7 +12,9 @@ The data was gotten from excel specialization course I took on coursera.
 I selected the entire data sheet data to remove duplicates from the dataset. 
 * I Selected the entire sheet or dataset and went to Data and created a filter to check if there is duplicate entery.
 * I clicked on the Filter icon at the top of any column, then clicked on Filter by condition and selected ‘is empty’.  
-* I used the Find and Replace function to filter out duplicate entries. 
+* I used the Find and Replace function to filter out duplicate entries.
+
+![order_dashboard](https://user-images.githubusercontent.com/78624637/178249400-f8ebe28c-209b-44c3-a7b9-b6169230e1cb.PNG)
 
 # Result
 
